@@ -3,7 +3,7 @@
 ## 📊 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mech/count.svg" alt="visitor counter"/>
+  <img src="https://github.com/Alexdebron.png" alt="visitor counter"/>
 </p>
 
 ---
@@ -61,5 +61,6 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
     <img src="https://github.com/Alexdebron.png" width="150" height="150" alt="Alex Debron"/>  
   </a>
 </p>
-[`Malvin King WhatsApp`](https://wa.me/263780166288)  
-[`Debron WhatsApp`](https://wa.me/234XXXXXXXXXX)
+[`Malvin King WhatsApp`](https://wa.me/263780166288)
+
+[`Debron WhatsApp`](https://wa.me/2348020926171)
