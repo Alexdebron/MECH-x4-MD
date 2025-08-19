@@ -122,15 +122,12 @@ Use at your own risk. Misuse may result in account bans.
 
 ---
 
-👑 Project Architect
+👑 ## Project Architecture
 
-<p align="center">
-  <a href="https://github.com/alexdebron-bot-ctrl" target="_blank">
-    <img src="https://github.com/Alexdebron&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="420"/>
-  </a>
-</p>
----
+### Author / Maintainer
+![Alex Debron](https://github.com/Alexdebron.png?size=150)
 
+> Built with ❤️ by [Alex Debron](https://github.com/Alexdebron)
 🚦 Status
 
 + Project: Active
