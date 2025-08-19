@@ -126,7 +126,7 @@ Use at your own risk. Misuse may result in account bans.
 
 <p align="center">
   <a href="https://github.com/alexdebron-bot-ctrl" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=chamod-bot-ctrl&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="420"/>
+    <img src="https://github.com/Alexdebron&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="420"/>
   </a>
 </p>
 ---
