@@ -26,12 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/fyr37r.jpg" width="300" style="border-radius: 20px; box-Mech: 0 0 20px #00ffff;"/>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-Mech: 0 0 25px #0088ff;"/>
-</div>
+  <img src="https://files.catbox.moe/20mkm9.jpg" width="300" style="border-radius: 20px; box-Mech: 0 0 20px #00ffff;"/>
 
 ---
 
@@ -44,7 +39,7 @@
 
 ### 🔘 Deploy Button
 
-[![Deploy on Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa)](https://dashboard.render.com/web/new?fromGitRepo=true&repo=https://github.com/cnw-db/Mech x4-vx.git)
+[![Deploy on Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa)](https://dashboard.render.com/cnw-db/Mech x4-vx.git)
 
 ### 🔘 Deploy Buttons
 
@@ -106,7 +101,7 @@ jobs:
 🪀 Support Channel
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vak4dFAHQbSBzyxlGG13" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vame2WE0bIdvkwepUP2B" target="_blank">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </p>
